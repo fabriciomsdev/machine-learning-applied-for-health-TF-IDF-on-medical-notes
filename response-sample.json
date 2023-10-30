@@ -1,0 +1,160 @@
+{
+  "pageSize": 25,
+  "pageNumber": 1,
+  "result": {
+    "classType": "searchResults",
+    "results": [
+      {
+        "ui": "C0016644",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C0016644",
+        "name": "Fracture of carpal bone"
+      },
+      {
+        "ui": "C0009044",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C0009044",
+        "name": "Closed fracture of carpal bone"
+      },
+      {
+        "ui": "C0159765",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C0159765",
+        "name": "Open fracture of carpal bone, unspecified"
+      },
+      {
+        "ui": "C0840635",
+        "rootSource": "ICD10AM",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C0840635",
+        "name": "Fracture of carpal bone, unspecified"
+      },
+      {
+        "ui": "C3670076",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3670076",
+        "name": "Fracture of third carpal bone"
+      },
+      {
+        "ui": "C2214345",
+        "rootSource": "MEDCIN",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2214345",
+        "name": "nonunion of fracture of carpal bone"
+      },
+      {
+        "ui": "C2213932",
+        "rootSource": "MEDCIN",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2213932",
+        "name": "malunion of fracture of carpal bone"
+      },
+      {
+        "ui": "C3669572",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669572",
+        "name": "Fracture of radial carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669570",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669570",
+        "name": "Fracture of fourth carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669936",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669936",
+        "name": "Fracture of ulnar carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669573",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669573",
+        "name": "Fracture of intermediate carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669927",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669927",
+        "name": "Fracture of accessory carpal bone of equine limb"
+      },
+      {
+        "ui": "C0478305",
+        "rootSource": "ICD10",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C0478305",
+        "name": "Fracture of other carpal bone(s)"
+      },
+      {
+        "ui": "C3163901",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3163901",
+        "name": "Debridement of open fracture of carpal bone"
+      },
+      {
+        "ui": "C2733517",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2733517",
+        "name": "Open reduction of fracture of carpal bone"
+      },
+      {
+        "ui": "C5405554",
+        "rootSource": "CPT",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C5405554",
+        "name": "Open reduction of fracture of carpal bone (other than carpal scaphoid bone)"
+      },
+      {
+        "ui": "C3519047",
+        "rootSource": "CPT",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3519047",
+        "name": "Closed reduction of fracture of carpal bone"
+      },
+      {
+        "ui": "C2068215",
+        "rootSource": "MEDCIN",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2068215",
+        "name": "closed treatment of fracture of carpal bone"
+      },
+      {
+        "ui": "C2164887",
+        "rootSource": "MEDCIN",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2164887",
+        "name": "delayed union of fracture of carpal bone"
+      },
+      {
+        "ui": "C2012741",
+        "rootSource": "MEDCIN",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C2012741",
+        "name": "open treatment of fracture of carpal bone"
+      },
+      {
+        "ui": "C3669940",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669940",
+        "name": "Slab fracture of radial carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669935",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669935",
+        "name": "Slab fracture of third carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669937",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669937",
+        "name": "Slab fracture of intermediate carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669938",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669938",
+        "name": "Chip fracture of intermediate carpal bone of equine limb"
+      },
+      {
+        "ui": "C3669934",
+        "rootSource": "SNOMEDCT_VET",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2023AA/CUI/C3669934",
+        "name": "Chip fracture of third carpal bone of equine limb"
+      }
+    ],
+    "recCount": 83
+  }
+}
